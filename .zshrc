@@ -70,7 +70,7 @@ ZSH_THEME="robbyrussell"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git web-search tmux colored-man-pages command-not-found isodate kitty)
+plugins=(git tmux colored-man-pages command-not-found isodate kitty)
 
 source $ZSH/oh-my-zsh.sh
 
